@@ -4,7 +4,7 @@ body {
   color: #0c0c0c;
   background--or: #ffffff;
   overflow-x: hidden;
-  width: 50%; margin: auto;
+  width: 100%; margin: auto;
 }
 
 .layout_padding {
